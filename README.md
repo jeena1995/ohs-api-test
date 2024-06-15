@@ -17,7 +17,7 @@ gRPC
 Lombok (for auto-generated getters, setters, and constructors)
 Protobuf (for defining gRPC services)
 Prerequisites
-Java 8 or higher installed
+Java 17
 Maven installed
 Docker
 Postgress
