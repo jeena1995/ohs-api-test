@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your/repository.git
+git clone https://github.com/jeena1995/ohs-api-test/ohs-api-test.zip.git
 cd order-processing-app
 
 Build the project:
